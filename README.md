@@ -73,7 +73,7 @@ No external libraries are required.
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/ToDo-List-App.git
+git clone https://github.com/humma2730-collab/Python-To-Do-List-Application.git
 ```
 
 Go to the project folder:
